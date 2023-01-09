@@ -15,7 +15,9 @@ app.get('/categories', (req, res) => {
     res.send(categories)
 })
 
-
+app.get('/allCourse', (req, res) => {
+    res.send(course)
+})
 
 app.listen(port, () => {
     console.log(`web app server running on port ${port}`)
