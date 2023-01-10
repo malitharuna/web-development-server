@@ -3,13 +3,13 @@
         "_id": "6356c8fd649c40a7cae35a90",
         "category_id": 1,
         "price": "$300.00",
-        "picture": "https://i.ibb.co/JryNpwS/unnamed.png",
+        "picture": "https://i.ibb.co/JryNpwS/unnamed.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png",
         "animation": "https://i.ibb.co/1n6zh3v/34462-html-url.gif",
-        "name": "HTML",
+        "name": "HTML/HTML5",
         "details": "In this module we will learn the basics of HTML5. We'll start with instructional videos on how to set up your development environment, go over HTML5 basics like valid document structure, which elements can be included inside other elements and which can not, discuss the meaning and usefulness of HTML5 semantic tags, and go over essential HTML5 tags.",
         "Instructor": {
-            "name": "Yaakov Chaikin",
-            "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?"
+            "oj7vx sdname": "Tim Berner",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tim_Berners-Lee_April_2009.jpg/800px-Tim_Berners-Lee_April_2009.jpg"
         },
         "rating": 4.5
     },
@@ -19,11 +19,11 @@
         "price": "$350.00",
         "picture": "https://i.ibb.co/PWHQJGm/css3-markup.jpg",
         "animation": "https://i.ibb.co/drL7rCL/91975-css-flag.gif",
-        "name": "CSS",
+        "name": "CSS/CSS3",
         "details": "In this module we will learn the basics of HTML5. We'll start with instructional videos on how to set up your development environment, go over HTML5 basics like valid document structure, which elements can be included inside other elements and which can not, discuss the meaning and usefulness of HTML5 semantic tags, and go over essential HTML5 tags.",
         "Instructor": {
             "name": "Yaakov Chaikin",
-            "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?"
+            "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
         },
         "rating": 4.0
     },
@@ -38,7 +38,7 @@
         "details": "In this module we will learn the basics of HTML5. We'll start with instructional videos on how to set up your development environment, go over HTML5 basics like valid document structure, which elements can be included inside other elements and which can not, discuss the meaning and usefulness of HTML5 semantic tags, and go over essential HTML5 tags.",
         "Instructor": {
             "name": "Yaakov Chaikin",
-            "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?"
+            "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
         },
         "rating": 4.5
     },
@@ -52,7 +52,7 @@
         "details": "In this module we will learn the basics of HTML5. We'll start with instructional videos on how to set up your development environment, go over HTML5 basics like valid document structure, which elements can be included inside other elements and which can not, discuss the meaning and usefulness of HTML5 semantic tags, and go over essential HTML5 tags.",
         "Instructor": {
             "name": "Yaakov Chaikin",
-            "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?"
+            "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
         },
         "rating": 4.5
     },
@@ -60,13 +60,13 @@
         "_id": "6356c8fd649c40a7cae35a90",
         "category_id": 5,
         "price": "$390.00",
-        "picture": "https://i.ibb.co/ZNNXjGb/download.png",
+        "picture": "https://www.rswebsols.com/wp-content/uploads/2020/03/jquery.jpg",
         "name": "jQuery",
         "animation": "https://i.ibb.co/YZgb0d8/57509-phplogo.gif",
         "details": "In this module we will learn the basics of HTML5. We'll start with instructional videos on how to set up your development environment, go over HTML5 basics like valid document structure, which elements can be included inside other elements and which can not, discuss the meaning and usefulness of HTML5 semantic tags, and go over essential HTML5 tags.",
         "Instructor": {
             "name": "Jadav Yabem",
-            "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?"
+            "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
         },
         "rating": 4.5
     },
@@ -80,7 +80,7 @@
         "details": "In this module we will learn the basics of HTML5. We'll start with instructional videos on how to set up your development environment, go over HTML5 basics like valid document structure, which elements can be included inside other elements and which can not, discuss the meaning and usefulness of HTML5 semantic tags, and go over essential HTML5 tags.",
         "Instructor": {
             "name": "Yaakov Chaikin",
-            "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?"
+            "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"
         },
         "rating": 4.5
     }
