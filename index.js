@@ -18,7 +18,7 @@ app.get('/categories', (req, res) => {
 
 app.get('/category/:id', (req, res) =>{
     const id = req.params.id;
-    const courseNumber = course.find(c => c.category_id === id)
+    const courseNumber = course.find(c => c.category_id == id)
     res.send(courseNumber)
 })
 
